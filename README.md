@@ -1,6 +1,6 @@
 # Mini Projects Showcase
 
-A curated collection of my mini projects, code experiments, and short-term challenges.
+A collection of my mini projects, code experiments, and short-term challenges.
 
 | # | Project Name | Tech Stack | Repository |
 |---|--------------|------------|-----------|
